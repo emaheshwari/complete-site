@@ -238,7 +238,7 @@ button:hover {
     font-family: 'Steelfish Rg', 'helvetica neue',
         helvetica, arial, sans-serif;
     font-weight: 800;
-    -webkit-font-smoothing: antialiased;
+    /* -webkit-font-smoothing: antialiased; */
     color: black;
 }
 
